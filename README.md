@@ -24,7 +24,6 @@ React 19 · TypeScript · Vite · Tailwind CSS · PWA
 ```bash
 npm install
 npm run dev    # desarrollo (Vite)
-npm run build  # build de producción → dist/
 ```
 
 ## Variables de entorno
